@@ -1,60 +1,60 @@
-## 👋 Hello, I'm Kashim Kyari Mohammed
+<!-- Profile README -->
 
-Cyber Security Engineer • Software Developer • Ethical Hacker  
-_London-trained | Nigeria-based | Globally-minded_
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kashim+Kyari+Mohammed;Cyber+Security+Engineer+%7C+Software+Developer;Python+%7C+Vue+%7C+React+%7C+Flask;Building+secure+%26+intelligent+systems" alt="Typing SVG" />
+  
+</div>
 
 ---
 
-### 🔍 About Me
+### 👨‍💻 About Me
 
-I’m a cybersecurity engineer and full-stack developer focused on designing secure, scalable, and intelligent systems. With experience protecting national digital infrastructure and building AI-driven monitoring tools, I merge hands-on coding with security-first thinking.
+I’m a cybersecurity engineer and full-stack developer passionate about building secure, scalable, and intelligent digital infrastructure.
 
-- 💼 Cybersecurity Engineer at Galaxy Backbone (1Gov.ng platform)
+- 🔐 Cyber Security Engineer at Galaxy Backbone (1Gov.ng)
 - 🎓 MSc Cyber Security – Middlesex University, London
-- 🧠 Python | Flask | Vue | React | Bash | PowerShell
-- ☁️ AWS | Azure | Splunk | Nessus | QRadar | Wazuh
-
----
-
-### 🔐 Expertise
-
-- **Security Engineering**  
-  MFA, threat detection, SIEM, incident response, penetration testing
-
-- **Development**  
-  Backend automation, API design, async workflows, full-stack apps
-
-- **AI & Automation**  
-  Real-time monitoring systems (YOLO, Whisper), NLP, script tooling
+- 🧠 Strong in Python, Flask, Vue, Bash, PowerShell
+- ☁️ Working across AWS, Azure, SIEMs, and cloud-native stacks
+- 🧪 Projects include livestream AI monitors (YOLO, Whisper), secure API services, and ML-influenced automation
 
 ---
 
 ### 🧰 Tech Toolbox
 
-![Python](https://img.shields.io/badge/-Python-111?style=flat-square&logo=python)
-![Vue.js](https://img.shields.io/badge/-Vue.js-111?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-111?style=flat-square&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-111?style=flat-square&logo=flask)
-![AWS](https://img.shields.io/badge/-AWS-111?style=flat-square&logo=amazonaws)
-![Linux](https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-111?style=flat-square&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-111?style=flat-square&logo=powershell)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,vue,react,flask,bash,powershell,aws,linux,docker,nodejs" alt="Tech Stack Icons" />
+</div>
 
 ---
 
-### 📈 GitHub Activity
+### 📈 GitHub Stats
 
-![Kashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashimkyari&show_icons=true&theme=tokyonight&hide=stars&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashimkyari&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect With Me
-
-- 🖥️ [Portfolio](https://portfolio-phi-kohl-26.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/0xkashim)
-- 📧 [kashimkyari@gmail.com](mailto:kashimkyari@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashimkyari&show_icons=true&theme=github_dark&count_private=true&hide=stars&rank_icon=github" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashimkyari&layout=compact&theme=github_dark" height="180px" />
+</div>
 
 ---
 
-> “Security is not a feature — it's a foundation.”
+### 🔥 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashimkyari&bg_color=0d1117&color=36BCF7&line=0af5fc&point=3d7fff&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🌍 Find Me Online
+
+<p align="center">
+  <a href="mailto:kashimkyari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/0xkashim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-phi-kohl-26.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+> “Security is not a feature — it's a foundation.”  
+> — _Kashim Kyari Mohammed_
+
